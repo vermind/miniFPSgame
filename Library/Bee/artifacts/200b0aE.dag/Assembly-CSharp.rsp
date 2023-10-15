@@ -367,6 +367,7 @@
 "Assets/Scripts/MiniCamera.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/testscript.cs"
+"Assets/Scripts/testscript2.cs"
 -langversion:9.0
 
 /deterministic

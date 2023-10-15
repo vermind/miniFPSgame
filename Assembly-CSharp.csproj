@@ -63,6 +63,7 @@
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/AutoDestroy.cs" />
     <Compile Include="Assets/Scripts/testscript.cs" />
+    <Compile Include="Assets/Scripts/testscript2.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
